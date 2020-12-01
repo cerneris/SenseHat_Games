@@ -1,10 +1,6 @@
 import click
 from snake import Snake
 from flappy_pird import FlappyPird
-#from sense_hat import SenseHat
-import time
-import random
-import os
 
 @click.command()
 @click.option("--game", help = "Choose game, snake or flappypird.")

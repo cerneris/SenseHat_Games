@@ -1,4 +1,4 @@
-from sense_emu import *
+from sense_hat import *
 import time
 import random
 import os
